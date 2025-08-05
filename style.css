@@ -1,0 +1,113 @@
+img{
+    height: 15rem;
+    width: 15rem;
+    margin-left: 4rem;
+    margin-top: 10px;
+}
+
+.fancy{
+    background-color: skyblue;
+    width: auto;
+}
+
+.first{
+    background-color: green;
+    color: white;
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: absolute;
+}
+
+.second{
+   background-color: white;
+    color: red;
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: absolute;
+    margin-left: 24rem;
+}
+.third{
+    background-color: black;
+    color: gold;
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: absolute;
+    margin-left: 48rem;
+    margin-bottom: 30rem;
+}
+
+.fourth{
+    background-color: lightcoral;
+    color: black;
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: absolute;
+    margin-left: 72rem;
+}
+
+.fifth{
+    background-color: firebrick;
+    color: black;
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: relative;
+    top: 25rem;
+}
+
+.sixth{
+    background-color: #fefbd8;
+    color: brown;
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: absolute;
+    top: 34.5rem;
+    margin-left: 24rem;
+}
+.seventh{
+    background-color: yellow;
+    color: black;
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: absolute;
+    top: 34.5rem;
+    margin-left: 48rem;
+}
+.eight{
+    background-color: rgba(18, 114, 108, 0.779);
+    color: rgb(3, 9, 2);
+    height: 22rem;
+    width: 23rem;
+    border: solid 2px black;
+    position: absolute;
+    top: 34.5rem;
+    margin-left: 72rem;
+}
+
+.container{
+    height: 70rem;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+#hide{
+    border-radius: 3px;
+    height: 20px;
+    background-color: yellowgreen;
+}
+
+#show{
+    border-radius: 3px;
+    height: 20px;
+    background-color: burlywood;
+}
+
+p{
+    font-size: 15px;
+}
